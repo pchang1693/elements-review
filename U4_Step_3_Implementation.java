@@ -1,4 +1,4 @@
-/* Name: Portia Chang
+/* Name: P. Chang
  * Date: July 22, 2017
  * Title: Learning Should Be Done PERIODICALLY!
  * Purpose: To teach grade 9 students the first 20 elements in the periodic table
